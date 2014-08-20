@@ -1,3 +1,3 @@
 <?php
-    echo "have merged source from feature/work";
+    echo "修正して、masterから戻すテスト！";
 ?>
